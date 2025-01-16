@@ -1,9 +1,9 @@
 # Décomposition en facteurs premiers
-### L'objectif est de décomposer en facteurs premiers le nombre de posets à n éléments
+### L'objectif est de décomposer en facteurs premiers le nombre de posets à n éléments.
 
-Le posets viens de « **P**artially **O**rdered **sets** », ce sont des éléments étiquetés (cf.posets.pdf)
+Le posets viens de « **P**artially **O**rdered **sets** », ce sont des éléments étiquetés (cf.posets.pdf).
 
-On défini L en se basant sur la liste de [posets A001035 de l'OEIS](https://oeis.org/A001035)
+On défini L en se basant sur la liste de [posets A001035 de l'OEIS](https://oeis.org/A001035).
 
 ```
 L = [
